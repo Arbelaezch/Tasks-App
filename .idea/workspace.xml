@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b3f0035-dbff-41e7-a020-f11237928eae" name="Default Changelist" comment="" />
+    <list default="true" id="9b3f0035-dbff-41e7-a020-f11237928eae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="96LAY0Y8UD" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_30_x86" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -112,5 +116,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="237" key="FileChooserDialogImpl/0.0.1920.1080/-1280.45.1280.1024@0.0.1920.1080" timestamp="1595533422168" />
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1595533705316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595533705316" />
   </component>
 </project>
