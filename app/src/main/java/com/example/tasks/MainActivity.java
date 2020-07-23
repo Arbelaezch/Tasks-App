@@ -13,7 +13,7 @@ import com.example.tasks.tasks.tasksMainActivity;
 public class MainActivity extends AppCompatActivity {
     private Button guideButton;
     private Button taskButton;
-    private Button test;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
