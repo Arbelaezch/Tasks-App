@@ -678,7 +678,6 @@ drawable tooltip_frame_light
 id ALT
 id CTRL
 id FUNCTION
-id Gtitle
 id META
 id SHIFT
 id SYM
@@ -769,6 +768,8 @@ id gone
 id group_divider
 id groups
 id guideButton
+id guides_list
+id guides_titles
 id home
 id homeAsUp
 id icon
@@ -907,6 +908,7 @@ layout activity_guide_main
 layout activity_main
 layout activity_tasks_main
 layout custom_dialog
+layout guide_row_listview
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
