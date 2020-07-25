@@ -5,15 +5,24 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:gravity="center_vertical">
+    android:gravity="center_vertical"
+    >
 
     <TextView
         android:id="@+id/guides_titles"
-        android:textSize="24sp"
-        android:text="TextView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent"
+        android:background="#4E4C4C"
+        android:gravity="center_vertical"
+        android:padding="50dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold">
 
     </TextView>
+
+
 
 </LinearLayout>

@@ -11,7 +11,7 @@ import com.example.tasks.R;
 public class GuideMainActivity extends AppCompatActivity {
     private ListView listView;
 
-    String[] nameArray = {"Walrus","Pig","Sheep","Rabbit","Snake","Spider" };
+    String[] nameArray = {"Walrus","Pig","Sheep","Rabbit","Snake","Spider", "Walrus","Pig","Sheep","Rabbit","Snake","Spider"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
