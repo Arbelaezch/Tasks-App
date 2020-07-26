@@ -23,12 +23,18 @@
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/floatingActionButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="30dp"
+        android:layout_width="90dp"
+        android:layout_height="72dp"
         android:layout_alignBottom="@id/guides_list"
         android:layout_alignParentRight="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
         android:clickable="true"
+        android:padding="50dp"
         app:backgroundTint="#D32F2F"
-        app:srcCompat="@android:drawable/ic_menu_add" />
+        app:maxImageSize="40dp"
+        app:srcCompat="@drawable/ic_baseline_add_24" />
+
+
 </RelativeLayout>
